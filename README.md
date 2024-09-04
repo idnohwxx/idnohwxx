@@ -10,6 +10,6 @@
 - **Interests**: Backend Development, Scripting, Automation
 
 ## Let's Connect!
-- [Discord] : idnohw / idnohw#0001
+- Discord : idnohw / idnohw#0001
 
 Thanks for visiting my profile! 😄
