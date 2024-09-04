@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm [idnohw] 👋
 
-<!--
-**idnohwxx/idnohwxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Passionate about coding and problem-solving.
+- 🧠 Proficient in **Lua** and **Python**.
+- 🚀 Always eager to learn and explore new technologies.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages**: Lua, Python
+- **Interests**: Backend Development, Scripting, Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect!
+- [Discord] : idnohw / idnohw#0001
+
+Thanks for visiting my profile! 😄
