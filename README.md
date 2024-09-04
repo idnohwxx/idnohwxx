@@ -1,4 +1,4 @@
-# Hi there, I'm [idnohw] 👋
+# I'm idnohw
 
 ## About Me
 - 💻 Passionate about coding and problem-solving.
@@ -11,5 +11,3 @@
 
 ## Let's Connect!
 - Discord : idnohw / idnohw#0001
-
-Thanks for visiting my profile! 😄
