@@ -7,7 +7,7 @@
 
 ## Skills
 - **Programming Languages**: Lua, Python
-- **Interests**: Backend Development, Scripting, Automation
+- **Interests**: Backend Development, Scripting, Automation, Hacking Games
 
 ## Learning
 - **Web Programming** Trying to develop Website with PHP and MySQL
