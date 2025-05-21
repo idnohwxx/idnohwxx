@@ -1,13 +1,13 @@
-# I'm idnohw
+# I'm Milky i Dzulhaq
 
 ## About Me
 - 💻 Passionate about coding and problem-solving.
-- 🧠 Proficient in **Lua** and **Python**.
+- 🧠 Proficient in **PHP**, **Lua**, and **Python**.
 - 🚀 Always eager to learn and explore new technologies.
 
 ## Skills
-- **Programming Languages**: Lua, Python
-- **Interests**: Backend Development, Scripting, Automation, Hacking Games
+- **Programming Languages**: Lua, Python, PHP
+- **Interests**: Backend Development, Scripting, Automation, Web Development
 
 ## Learning
 - **Web Programming** Trying to develop Website with PHP and MySQL
